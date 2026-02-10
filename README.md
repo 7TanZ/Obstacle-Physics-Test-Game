@@ -15,8 +15,6 @@ The project was developed as a hands-on implementation of Unity fundamentals suc
 | Action | Key   |
 | ------ | ----- |
 | Move   | WASD  |
-| Jump   | Space |
-| Sprint | Shift |
 
 ---
 
