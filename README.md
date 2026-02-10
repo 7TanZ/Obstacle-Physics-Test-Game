@@ -120,7 +120,9 @@ ProjectSettings/ → Unity project configuration
 
 ## 📸 Screenshots
 
-(Add gameplay screenshots here later)
+<img width="1240" height="617" alt="Screenshot 2026-02-10 150224" src="https://github.com/user-attachments/assets/d8d7c03f-ce04-485e-945f-591dff2c76cf" />
+<img width="1240" height="620" alt="Screenshot 2026-02-10 150246" src="https://github.com/user-attachments/assets/28fcba02-dac4-402c-8b17-a839e3c03fe7" />
+
 
 ---
 
